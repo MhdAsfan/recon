@@ -1,0 +1,19 @@
+# Recon output directories
+recon_*/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.txt~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
